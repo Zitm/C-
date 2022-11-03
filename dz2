@@ -10,7 +10,7 @@ main()
 	
 	if (a>b)
 	{
-		printf("a bolshe");
+		printf("a больше");
 	}
 	else 
 	{
@@ -20,7 +20,7 @@ main()
 		}
 		else
 		{
-			printf("b bolshe");
+			printf("b меньше");
 		}
 	}
 }
