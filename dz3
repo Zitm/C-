@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+main()
+{
+	int login,password;
+	printf("login= ");
+	scanf("%i",&login);
+	printf("password= ");
+	scanf("%i",&password);
+	
+	if (((login==1111)&&(password==2222))||((login==3333)&&(password==4444))||((login==5555)&&(password==6666)))
+	{
+		printf("ok");
+	}
+	else 
+	{
+		printf("eror");
+	}
+}
