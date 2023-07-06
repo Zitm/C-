@@ -1,0 +1,7 @@
+print("enter breed")
+breed=input()
+print("enter name")
+name=input()
+print("enter age")
+age=input()
+print("This",breed,"by name",name,"Age:",age)
